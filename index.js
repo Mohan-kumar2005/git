@@ -1,1 +1,4 @@
-console.log("wlcome to course")
+console.log("welcome to playlist")
+for(var i=0;i<5;i++){
+  console.log("mohan")
+}
